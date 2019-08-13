@@ -6,7 +6,7 @@ This user guide have been tested on Ubuntu version 16.04.
 For details regarding model training and evaluation, please refer to  dev/ directory above.
 
 ## Hardware requirements
- - At least 32 GB RAM.
+ - At least 128 GB RAM.
  - At least 1TB free disk space to process and accommodate the necessary databases for annotation
 
 ## Software requirements (for native installation)
